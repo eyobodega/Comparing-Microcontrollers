@@ -1,6 +1,6 @@
 # morse-code-and-processors
 NOTE: this project was done on MPLABX IDE, i have not tested with other requirements
-You will find C code, C integrated with interrupt service routine, and the former integrated with inline assembler code for the following processors 
+You will find C code, C integrated with interrupt service routine, and the previous integrated with inline assembler code for the following processors 
   - ATEMGA328P mounted on grove board
   - pic 32 (simulation due to hardware constraints) 
 
