@@ -4,7 +4,7 @@ You will find C code, C integrated with interrupt service routine, and the previ
   - ATEMGA328P mounted on grove board
   - pic 32 (simulation due to hardware constraints) 
 
-The task focused on comparing the processors and the vechile to do this was a morse code translator that translated inputs to LED lights (helped with buzzer noises)
+I focused on comparing the processors and the vechile to do this was a morse code translator that translated inputs to LED lights (helped with buzzer noises)
 
 For more detailed information, references, study please refer to the PDF 'Project report' in this repo
 
