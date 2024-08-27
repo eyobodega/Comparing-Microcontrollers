@@ -6,6 +6,5 @@ You will find C code, C integrated with interrupt service routine, and the previ
 
 I focused on comparing the processors and the vechile to do this was a morse code translator that translated inputs to LED lights (helped with buzzer noises)
 
-For more detailed information, references, study please refer to the PDF 'Project report' in this repo
 
 A wikipedia entry for ISR was part of the project for Amharic langauge in an effort to expand education to those who may not understand english
